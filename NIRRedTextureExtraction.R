@@ -1,5 +1,5 @@
 # calculating texture data for single bands
-
+# created by Nadeesha Illeperuma
 ####################################################################################################
 # loading required packages
 library (raster)        
